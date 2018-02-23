@@ -5,6 +5,8 @@
 - **conv2d_opencl**: konvolúció megvalósítása GPU gyorsítással (OpenCL)
 - **dither**: színmélység redukálása különbözõ dithering eljárásokkal (véletlen zaj, mátrix, Floyd-Steinberg)
 - **histogram_eq**: kontraszt növelése hisztogramkiegyenlítéssel
+- **hough_circle**: kör detektálása Hough-transzformációval
+- **hough_line**: vonal szögének detektálása Hough-transzformációval
 - **jpeg_compression**: a JPEG tömörítés modellezése MATLAB-ban
 - **opencldemo**: OpenCL mintaalkalmazás C és C++ nyelven (vektorelemek szálankénti összeadása)
 - **opencv**: programok az OpenCV könyvtárral
