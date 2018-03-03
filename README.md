@@ -8,6 +8,7 @@
 - **hough_circle**: kör detektálása Hough-transzformációval
 - **hough_line**: vonal szögének detektálása Hough-transzformációval
 - **jpeg_compression**: a JPEG tömörítés modellezése MATLAB-ban
+- **lbp**: textúrakeresés Local Binary Pattern hisztogram alapján
 - **opencldemo**: OpenCL mintaalkalmazás C és C++ nyelven (vektorelemek szálankénti összeadása)
 - **opencv**: programok az OpenCV könyvtárral
 - **sobel**: éldetektálás Sobel-operátorral (triviális, OpenMP és SSE implementáció)
