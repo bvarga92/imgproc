@@ -15,4 +15,5 @@
 - **sobel_cuda**: Sobel-operátor alkalmazása GPU gyorsítással (CUDA)
 - **sobel_opencl**: Sobel-operátor alkalmazása GPU gyorsítással (OpenCL)
 - **cudademo.cu**: CUDA mintaalkalmazás (vektorelemek szálankénti összeadása)
+- **kabsch.m**: pontfelhõk közti forgatás meghatározása Kabsch-algoritmussal
 - **sobel_rt.cpp**: Sobel-operátor mûködtetése valós idõben (pl. Vivado HLS hardverszintézishez)
