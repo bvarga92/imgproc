@@ -14,6 +14,7 @@
 - **sobel**: éldetektálás Sobel-operátorral (triviális, OpenMP és SSE implementáció)
 - **sobel_cuda**: Sobel-operátor alkalmazása GPU gyorsítással (CUDA)
 - **sobel_opencl**: Sobel-operátor alkalmazása GPU gyorsítással (OpenCL)
+- **tomo_backprojection**: tomoszintézis, Radon-transzformáció invertálása egyszerû és szûrt visszavetítéssel
 - **cudademo.cu**: CUDA mintaalkalmazás (vektorelemek szálankénti összeadása)
 - **kabsch.m**: pontfelhõk közti forgatás meghatározása Kabsch-algoritmussal
 - **sobel_rt.cpp**: Sobel-operátor mûködtetése valós idõben (pl. Vivado HLS hardverszintézishez)
