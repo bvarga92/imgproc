@@ -11,6 +11,7 @@
 - **lbp**: textúrakeresés Local Binary Pattern hisztogram alapján
 - **opencldemo**: OpenCL mintaalkalmazás C és C++ nyelven (vektorelemek szálankénti összeadása)
 - **opencv**: programok az OpenCV könyvtárral
+- **raytrace**: egyszerû példák sugárkövetésre MATLAB-ban
 - **sobel**: éldetektálás Sobel-operátorral (triviális, OpenMP és SSE implementáció)
 - **sobel_cuda**: Sobel-operátor alkalmazása GPU gyorsítással (CUDA)
 - **sobel_opencl**: Sobel-operátor alkalmazása GPU gyorsítással (OpenCL)
