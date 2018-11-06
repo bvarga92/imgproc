@@ -13,7 +13,7 @@
 ## 1 bit színmélység, dither 4x4-es mátrixszal:
 ![5](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_1b_4_mtx4.jpg)
 
-## 1 bit színmélység, dither Floyd-Steinberg-eljárással:
+## 1 bit színmélység, dither Floyd–Steinberg-eljárással:
 ![6](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_1b_5_fs.jpg)
 
 ## 2 bit színmélység, dither nélkül:
@@ -28,7 +28,7 @@
 ## 2 bit színmélység, dither 4x4-es mátrixszal:
 ![10](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_2b_4_mtx4.jpg)
 
-## 2 bit színmélység, dither Floyd-Steinberg-eljárással:
+## 2 bit színmélység, dither Floyd–Steinberg-eljárással:
 ![11](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_2b_5_fs.jpg)
 
 ## 3 bit színmélység, dither nélkül:
@@ -43,7 +43,7 @@
 ## 3 bit színmélység, dither 4x4-es mátrixszal:
 ![15](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_3b_4_mtx4.jpg)
 
-## 3 bit színmélység, dither Floyd-Steinberg-eljárással:
+## 3 bit színmélység, dither Floyd–Steinberg-eljárással:
 ![16](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_3b_5_fs.jpg)
 
 ## 4 bit színmélység, dither nélkül:
@@ -58,5 +58,5 @@
 ## 4 bit színmélység, dither 4x4-es mátrixszal:
 ![20](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_4b_4_mtx4.jpg)
 
-## 4 bit színmélység, dither Floyd-Steinberg-eljárással:
+## 4 bit színmélység, dither Floyd–Steinberg-eljárással:
 ![21](https://raw.githubusercontent.com/bvarga92/imgproc/main/dither/output_4b_5_fs.jpg)

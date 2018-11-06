@@ -3,7 +3,7 @@
 - **conv2d**: lineáris képszûrés (kétdimenziós konvolúció) megvalósítása triviális módszerrel, OpenMP többszálúsítással, illetve SIMD utasításokkal
 - **conv2d_cuda**: konvolúció megvalósítása GPU gyorsítással (CUDA)
 - **conv2d_opencl**: konvolúció megvalósítása GPU gyorsítással (OpenCL)
-- **dither**: színmélység redukálása különbözõ dithering eljárásokkal (véletlen zaj, mátrix, Floyd-Steinberg)
+- **dither**: színmélység redukálása különbözõ dithering eljárásokkal (véletlen zaj, mátrix, Floyd–Steinberg)
 - **histogram_eq**: kontraszt növelése hisztogramkiegyenlítéssel
 - **hough_circle**: kör detektálása Hough-transzformációval
 - **hough_line**: vonal szögének detektálása Hough-transzformációval
